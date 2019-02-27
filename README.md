@@ -25,7 +25,7 @@ Supported ENV variables:
 
 Simply specify version of a release available at [kafka-manager github](https://github.com/yahoo/kafka-manager/releases), e.g.:
 ```
-make build v=1.3.3.15
+make build v=1.3.3.22
 ```
 to run local build simply use:
 ```
@@ -33,6 +33,6 @@ make run
 ```
 or
 ```
-make run v=1.3.3.15
+make run v=1.3.3.22
 ```
 to start specific `kafka-manager` version.
